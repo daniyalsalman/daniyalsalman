@@ -6,7 +6,7 @@
 - 😄 Pronouns: first person pronouns 😂
 - ⚡ Fun fact: i write with my left hand and watch youtube videos on 2x playback speed.
   
-h1 align="center">Hi 👋, I'm Daniyal</h1>
+<h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">A student of knowledge</h3>
 
 <h3 align="left">Connect with me:</h3>
